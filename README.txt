@@ -1,7 +1,7 @@
 Readme.txt
 
-Author: Tianhua Piao
-Email: magicpiao@gmail.com
+Author: allanp
+Email: allanp.cocoa@gmail.com
 Date: 2012-03-27
 
 =================================================================================
