@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendingMachine.Core", "VendingMachine\VendingMachine.Core.csproj", "{302791C9-3F99-4FEE-9D74-17633E74E86D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{10FD9407-AD6A-4853-B620-9DCFCF82E780}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		README.txt = README.txt
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+		VendingMachine.vsmdi = VendingMachine.vsmdi
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendingMachine.Core.Test", "VendingMachine.Core.Test\VendingMachine.Core.Test.csproj", "{63C25CC0-9EC8-4761-A141-6BE585F712B5}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = VendingMachine.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{302791C9-3F99-4FEE-9D74-17633E74E86D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{302791C9-3F99-4FEE-9D74-17633E74E86D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{302791C9-3F99-4FEE-9D74-17633E74E86D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{302791C9-3F99-4FEE-9D74-17633E74E86D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63C25CC0-9EC8-4761-A141-6BE585F712B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63C25CC0-9EC8-4761-A141-6BE585F712B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63C25CC0-9EC8-4761-A141-6BE585F712B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63C25CC0-9EC8-4761-A141-6BE585F712B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
