@@ -1,0 +1,17 @@
+{
+    "name": {
+        "en-US": "Dotweb Health",
+        "nl-NL": "Dotweb Verzuim"
+    },
+ "icon": "https://office-supplies.appspot.com/img/icon.png",
+    "secret": "something-something",
+    "entries": [
+        {
+            "position": "main",
+            "devices": "all",
+            "url": "https://www.dotwebretailacceptatie.nl/SpeakapProxySite/",
+            "label": { "en-US": "Dotweb Health", "nl-NL": "Dotweb Verzuim" },
+            "icon": "\uf0fa"
+        }
+    ]
+}
