@@ -3,7 +3,8 @@
         "en-US": "Dotweb Health",
         "nl-NL": "Dotweb Verzuim"
     },
- "icon": "https://office-supplies.appspot.com/img/icon.png",
+ "icon": "\uf0fa",
+ "permissions": ["send_alerts", "invite_users"],
     "secret": "something-something",
     "entries": [
         {
