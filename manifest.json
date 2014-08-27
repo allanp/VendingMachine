@@ -4,6 +4,7 @@
         "nl-NL": "Dotweb Verzuim"
     },
  "icon": "\uf0fa",
+ "iconThumbnailUrl": "http://www.dwdevelop.nl/DWAccept_7_8/App_Themes/DesktopLite/img/CustLogo.png",
  "permissions": ["send_alerts", "invite_users"],
     "secret": "something-something",
     "entries": [
